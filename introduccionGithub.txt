@@ -2,3 +2,9 @@ introducción:
 
 En esta actividad, queremos unir los trabajos hechos por los distintos grupos del taller de github.
 Preparense, porque será sorprendente 
+
+
+
+
+
+Github es una plataforma de control de versiones que permite trabajar de forma remota a uno o más colaboradores de un proyecto de forma simultánea
